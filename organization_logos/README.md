@@ -7,4 +7,5 @@ Everyone can upload and propose their own logo for organization. It is important
 * upload image to folder named with your nickname (if it doesn't exist create one)
 
 ### Current contributors:
-@sintloer
+* @sintloer
+* @SKocur
