@@ -8,6 +8,8 @@ People learning programming come together in programming teams and carry out joi
 * [Git tutorial](https://try.github.io/)
 * [Commit message tutorial](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 * [Learn to code with SoloLearn](https://www.sololearn.com/)
+* [Udemy - programming courses](https://www.udemy.com/courses/search/?ref=home&src=ukw&q=programming&sort=price-low-to-high)
+* [Udacity - software development courses](https://eu.udacity.com/courses/all)
 
 
 #### Founded by @SKocur
