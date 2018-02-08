@@ -7,6 +7,7 @@ People learning programming come together in programming teams and carry out joi
 #### Useful links:
 * [Git tutorial](https://try.github.io/)
 * [Commit message tutorial](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+* [Learn to code with SoloLearn](https://www.sololearn.com/)
 
 
 #### Founded by @SKocur
