@@ -1,4 +1,4 @@
-[![Join the chat at https://gitter.im/DevStudents](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/DevStudents)
+[Join our official Slack!](https://join.slack.com/t/gitdevstudents/shared_invite/enQtMzE2ODU4Mjk2NDUzLTY3YWYyYmY3NGE5NTYzYjk0MDQ5ZWUwYzUxM2U4NTFmY2IzODAyNGFjZTc1OGZhYjgzZGNkMWZmNzk2NmNlNjE)
 # DevStudents-General
 
 ### General purpose:
